@@ -5,4 +5,4 @@ If you want to train a model and run the scripts in the repository - download no
 
 The report provided below:
 
-[UP957417 ViTDeblur](REPORT.pdf)
+[ViTDeblur](REPORT.pdf)
